@@ -2,7 +2,7 @@
 - Then Clone the repo you have forked.
 
   -- if you want to Update your forked repository:
-  1. Ensure you have remote to the main fork (AlexanderGruman repo), if not: "git remote upstream <URL>"
+  1. Ensure you have remote to the main fork (AlexanderGruman repo), if not: "git remote add upstream URL_OF_ALEX_FORK"
   2. Check if you have 2 remotes (one for your forked repo, one for the upstream repo): "git remote -v"
   3. git fetch upstream (מביא את השינויים בעצם לפורק שלך)
   4. switch to your brench: git switch main
