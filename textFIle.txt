@@ -1,0 +1,7 @@
+public class Print{
+	
+	public void printSomething(String msg){
+		System.out.println(msg);
+	}
+
+}
