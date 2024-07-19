@@ -9,3 +9,4 @@
   5. Now you can update your main branch (of your fork) by marging: "git  merge upstream/main"
   6.  -- IF YOU HAVE CONFLICTS- SOLVE THEM!!! --
   7.  after you have done, you want to push the changes to your forked repo: "git push origin main"
+  8.  trying to change the README file 
